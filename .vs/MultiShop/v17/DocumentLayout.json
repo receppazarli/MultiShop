@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\discount\\multishop.discount\\multishop.discount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\multishop.discount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\context\\dappercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,24 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MultiShop.Discount",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
-              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
-              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-27T14:41:10.136Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-27T15:00:32.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DapperContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\Context\\DapperContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T15:00:26.283Z",
+              "EditorCaption": ""
             }
           ]
         }
