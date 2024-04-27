@@ -3,44 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\updateproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\updateproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\resultproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\resultproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\getbyidproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\getbyidproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\createproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\dtos\\productdetaildtos\\createproductdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\entities\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\entities\\productdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productimagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\catalog\\multishop.catalog\\services\\productdetailservices\\productdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B9DB1C5E-A053-46A1-A6D9-735F3BE1ABB1}|Services\\Catalog\\MultiShop.Catalog\\MultiShop.Catalog.csproj|solutionrelative:services\\catalog\\multishop.catalog\\services\\productdetailservices\\productdetailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\discount\\multishop.discount\\multishop.discount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F4D52B0B-8B7B-4733-A06F-2B437ACE75A9}|Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj|solutionrelative:services\\discount\\multishop.discount\\multishop.discount.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,141 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDetail.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductDetail.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductDetail.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductDetail.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Entities\\ProductDetail.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAD4vwsAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:46:53.193Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateProductDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\UpdateProductDetailDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\UpdateProductDetailDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\UpdateProductDetailDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\UpdateProductDetailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:46:48.724Z",
+              "Title": "MultiShop.Discount",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
+              "RelativeDocumentMoniker": "Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
+              "RelativeToolTip": "Services\\Discount\\MultiShop.Discount\\MultiShop.Discount.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-27T14:41:10.136Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ResultProductDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\ResultProductDetailDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\ResultProductDetailDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\ResultProductDetailDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\ResultProductDetailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:46:46.211Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GetByIdProductDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\GetByIdProductDetailDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\GetByIdProductDetailDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\GetByIdProductDetailDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\GetByIdProductDetailDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:46:42.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateProductDetailDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Dtos\\ProductDetailDtos\\CreateProductDetailDto.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAA5wAUAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:46:36.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:39:04.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductImagesController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAowDIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:38:32.583Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:38:07.908Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductDetailService.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Services\\ProductDetailServices\\ProductDetailService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:30:43.187Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ProductDetailsController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
-              "RelativeToolTip": "Services\\Catalog\\MultiShop.Catalog\\Controllers\\ProductDetailsController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAA9wDIAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-27T11:29:56.996Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
