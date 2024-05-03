@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DB57322-157C-4E68-A6D4-403BA8A05932}|Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\cargo\\multishop.cargo.dtolayer\\dtos\\cargocompanydtos\\updatecargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB57322-157C-4E68-A6D4-403BA8A05932}|Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dtolayer\\dtos\\cargocompanydtos\\updatecargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DB57322-157C-4E68-A6D4-403BA8A05932}|Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\cargo\\multishop.cargo.dtolayer\\dtos\\cargocompanydtos\\createcargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DB57322-157C-4E68-A6D4-403BA8A05932}|Services\\Cargo\\MultiShop.Cargo.DtoLayer\\MultiShop.Cargo.DtoLayer.csproj|solutionrelative:services\\cargo\\multishop.cargo.dtolayer\\dtos\\cargocompanydtos\\createcargocompanydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE50559B-DBC5-4E85-817A-49216CD7BFC5}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\cargo\\multishop.cargo.webapi\\controllers\\cargocompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE50559B-DBC5-4E85-817A-49216CD7BFC5}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\controllers\\cargocompanycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE50559B-DBC5-4E85-817A-49216CD7BFC5}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\cargo\\multishop.cargo.webapi\\controllers\\cargooperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE50559B-DBC5-4E85-817A-49216CD7BFC5}|Services\\Cargo\\MultiShop.Cargo.WebApi\\MultiShop.Cargo.WebApi.csproj|solutionrelative:services\\cargo\\multishop.cargo.webapi\\controllers\\cargooperationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdateCargoCompanyDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\UpdateCargoCompanyDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\UpdateCargoCompanyDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\UpdateCargoCompanyDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\UpdateCargoCompanyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Title": "CargoOperationsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
+              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
+              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoOperationsController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwEIAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:05:37.304Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateCargoCompanyDto.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\CreateCargoCompanyDto.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\CreateCargoCompanyDto.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\CreateCargoCompanyDto.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.DtoLayer\\Dtos\\CargoCompanyDtos\\CreateCargoCompanyDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T14:04:26.438Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CargoCompanyController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "RelativeDocumentMoniker": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "RelativeToolTip": "Services\\Cargo\\MultiShop.Cargo.WebApi\\Controllers\\CargoCompanyController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwC0AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:52:43.8Z",
+              "WhenOpened": "2024-05-03T15:19:08.453Z",
               "EditorCaption": ""
             }
           ]

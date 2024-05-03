@@ -1,16 +1,18 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using MultiShop.Cargo.BusinessLayer.Abstract;
+using MultiShop.Cargo.DtoLayer.Dtos.CargoCompanyDtos;
+using MultiShop.Cargo.EntityLayer.Concrete;
 
 namespace MultiShop.Cargo.WebApi.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CargoCompanyController : ControllerBase
+    public class CargoCompaniesController : ControllerBase
     {
         private readonly ICargoCompanyService _cargoCompanyService;
 
-        public CargoCompanyController(ICargoCompanyService cargoCompanyService)
+        public CargoCompaniesController(ICargoCompanyService cargoCompanyService)
         {
             _cargoCompanyService = cargoCompanyService;
         }
@@ -23,9 +25,14 @@ namespace MultiShop.Cargo.WebApi.Controllers
         }
 
         [HttpPost]
-        public IActionResult CreateCargoCompany()
+        public IActionResult CreateCargoCompany(CreateCargoCompanyDto createCargoCompanyDto)
         {
+            CargoCompany cargoCompany = new CargoCompany()
+            {
+                CargoCompanyName = createCargoCompanyDto.CargoCompanyName
+            };
 
+            _cargoCompanyService.TInsert(cargoCompany);
             return Ok("Kargo şirketi başarıyla oluşturuldu.");
         }
 
@@ -37,16 +44,22 @@ namespace MultiShop.Cargo.WebApi.Controllers
         }
 
         [HttpGet("{id}")]
-        public IActionResult CargoCompanyGetById(int id)
+        public IActionResult GetCargoCompanyById(int id)
         {
             var values = _cargoCompanyService.TGetById(id);
             return Ok(values);
         }
 
         [HttpPut]
-        public IActionResult UpdateCargoCompany()
+        public IActionResult UpdateCargoCompany(UpdateCargoCompanyDto updateCargoCompanyDto)
         {
-            //var values = _cargoCompanyService.TGetById()
+            CargoCompany cargoCompany = new CargoCompany()
+            {
+                CargoCompanyId = updateCargoCompanyDto.CargoCompanyId,
+                CargoCompanyName = updateCargoCompanyDto.CargoCompanyName
+            };
+
+            _cargoCompanyService.TUpdate(cargoCompany);
             return Ok("Kargo şirketi başarıyla güncellendi.");
         }
 
