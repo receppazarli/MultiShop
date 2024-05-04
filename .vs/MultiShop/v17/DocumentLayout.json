@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\services\\basketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\services\\ibasketservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\settings\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\settings\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +39,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BasketService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Services\\BasketService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Services\\BasketService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Services\\BasketService.cs",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Services\\BasketService.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAqwBwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:28:45.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBasketService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Services\\IBasketService.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Services\\IBasketService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Services\\IBasketService.cs",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Services\\IBasketService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T09:26:42.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RedisService.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Settings\\RedisService.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Settings\\RedisService.cs",
@@ -43,7 +77,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "RedisSettings.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Settings\\RedisSettings.cs",
               "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Settings\\RedisSettings.cs",
@@ -56,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\appsettings.json",
               "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\appsettings.json",
