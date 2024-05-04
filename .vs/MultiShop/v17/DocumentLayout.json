@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\dtos\\basketitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\dtos\\baskettotaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\dtos\\baskettotaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{82EFC0EC-ECD9-4DB0-A0BB-679283EA97A7}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|c:\\users\\hp\\source\\repos\\multishop\\identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{82EFC0EC-ECD9-4DB0-A0BB-679283EA97A7}|IdentityServer\\MultiShop.IdentityServer\\MultiShop.IdentityServer.csproj|solutionrelative:identityserver\\multishop.identityserver\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|c:\\users\\hp\\source\\repos\\multishop\\services\\basket\\multishop.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEBE7627-0132-4FEA-B245-842B72FF9E23}|Services\\Basket\\MultiShop.Basket\\MultiShop.Basket.csproj|solutionrelative:services\\basket\\multishop.basket\\controllers\\basketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "RelativeDocumentMoniker": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "RelativeToolTip": "IdentityServer\\MultiShop.IdentityServer\\Config.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "DocumentIndex": 0,
+              "Title": "BasketItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Dtos\\BasketItemDto.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Dtos\\BasketItemDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Dtos\\BasketItemDto.cs",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Dtos\\BasketItemDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:08:58.479Z",
+              "WhenOpened": "2024-05-04T13:56:59.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\appsettings.json",
-              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\appsettings.json",
-              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T12:07:22.664Z",
+              "Title": "BasketTotalDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Dtos\\BasketTotalDto.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Dtos\\BasketTotalDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Dtos\\BasketTotalDto.cs",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Dtos\\BasketTotalDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:52:12.706Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAADIAAAAYAAAA",
+              "DocumentIndex": 2,
+              "Title": "BasketsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "RelativeDocumentMoniker": "Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "RelativeToolTip": "Services\\Basket\\MultiShop.Basket\\Controllers\\BasketsController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T12:05:47.496Z",
+              "WhenOpened": "2024-05-04T13:20:34.151Z",
               "EditorCaption": ""
             }
           ]
