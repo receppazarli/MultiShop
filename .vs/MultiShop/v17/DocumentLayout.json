@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\views\\shared\\components\\_contactdetailcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\views\\shared\\components\\_contactdetailcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\viewcomponents\\contactviewcomponents\\_contactdetailcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\viewcomponents\\contactviewcomponents\\_contactdetailcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\wwwroot\\maindownload-ovioadmin-html5-template\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\wwwroot\\maindownload-ovioadmin-html5-template\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,54 +22,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ContactDetailComponentPartial\\Default.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ContactDetailComponentPartial\\Default.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ContactDetailComponentPartial\\Default.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Shared\\Components\\_ContactDetailComponentPartial\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T14:55:11.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_ContactDetailComponentPartial.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\ViewComponents\\ContactViewComponents\\_ContactDetailComponentPartial.cs",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\ViewComponents\\ContactViewComponents\\_ContactDetailComponentPartial.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\ViewComponents\\ContactViewComponents\\_ContactDetailComponentPartial.cs",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\ViewComponents\\ContactViewComponents\\_ContactDetailComponentPartial.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:54:06.681Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Contact\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Views\\Contact\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Views\\Contact\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Views\\Contact\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-07T14:51:29.671Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T14:49:35.949Z",
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-08T12:17:11.509Z",
               "EditorCaption": ""
             }
           ]
