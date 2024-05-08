@@ -7,24 +7,8 @@
       "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\views\\adminlayout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\controllers\\adminlayoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\wwwroot\\maindownload-ovioadmin-html5-template\\html\\tables\\basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\wwwroot\\maindownload-ovioadmin-html5-template\\html\\tables\\basic.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\wwwroot\\maindownload-ovioadmin-html5-template\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\wwwroot\\maindownload-ovioadmin-html5-template\\html\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|c:\\users\\hp\\source\\repos\\multishop\\frontends\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1A12FEF4-F47D-401B-9A5F-4167B201926F}|Frontends\\MultiShop.WebUI\\MultiShop.WebUI.csproj|solutionrelative:frontends\\multishop.webui\\areas\\admin\\views\\shared\\components\\_adminlayoutsidebarcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,28 +26,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "basic.html",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\basic.html",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\basic.html",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\basic.html",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\tables\\basic.html",
-              "ViewState": "AQIAABYCAAAAAAAAAAAcwGQCAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-08T12:32:45.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\Shared\\Components\\_AdminLayoutSidebarComponentPartial\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T12:30:30.154Z",
+              "WhenOpened": "2024-05-08T13:39:12.278Z",
               "EditorCaption": ""
             },
             {
@@ -72,50 +43,11 @@
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml",
-              "ViewState": "AQIAAHcCAAAAAAAAAAAAAH8CAAA9AAAA",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml*",
+              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Views\\AdminLayout\\Index.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-08T12:35:06.227Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AdminLayoutController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\AdminLayoutController.cs",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\AdminLayoutController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\AdminLayoutController.cs",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\AdminLayoutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:27:49.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T12:26:45.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
-              "RelativeDocumentMoniker": "Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\MultiShop\\Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
-              "RelativeToolTip": "Frontends\\MultiShop.WebUI\\wwwroot\\MainDownload-OvioAdmin-html5-template\\html\\index.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-08T12:17:11.509Z",
               "EditorCaption": ""
             }
           ]
