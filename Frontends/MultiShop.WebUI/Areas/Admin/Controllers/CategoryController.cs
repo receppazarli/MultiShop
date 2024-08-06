@@ -76,7 +76,7 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
             var responseMessage = await client.DeleteAsync("https://localhost:7070/api/Categories?id=" + id);
             if (responseMessage.IsSuccessStatusCode)
             {
-                return RedirectToAction("Index", new { area = "Admin" });
+                return RedirectToAction("Index","Category", new { area = "Admin" });
             }
             return View();
         }
