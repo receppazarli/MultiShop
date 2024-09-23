@@ -23,10 +23,11 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         [Route("Index")]
         public async Task<IActionResult> Index()
         {
-            ViewBag.v0 = "Öne Çıkan Slider Görsel İşlemleri";
+           
             ViewBag.v1 = "Ana Sayfa";
             ViewBag.v2 = "Öne Çıkan Görseller";
             ViewBag.v3 = "Slider Öne Çıkan Görsel Listesi";
+            ViewBag.v0 = "Öne Çıkan Slider Görsel İşlemleri";
 
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7070/api/FeatureSliders");
@@ -43,10 +44,11 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         [Route("CreateFeatureSlider")]
         public IActionResult CreateFeatureSlider()
         {
-            ViewBag.v0 = "Öne Çıkan Slider Görsel İşlemleri";
+          
             ViewBag.v1 = "Ana Sayfa";
             ViewBag.v2 = "Öne Çıkan Görseller";
             ViewBag.v3 = "Slider Öne Çıkan Görsel Listesi";
+            ViewBag.v0 = "Öne Çıkan Slider Görsel İşlemleri";
 
             return View();
         }
@@ -87,10 +89,11 @@ namespace MultiShop.WebUI.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> UpdateFeatureSlider(string id)
         {
-            ViewBag.v0 = "Öne Çıkan Slider Görsel İşlemleri";
             ViewBag.v1 = "Ana Sayfa";
             ViewBag.v2 = "Öne Çıkan Görseller";
             ViewBag.v3 = "Slider Öne Çıkan Görsel Listesi";
+            ViewBag.v0 = "Öne Çıkan Slider Görsel İşlemleri";
+
             var client = _httpClientFactory.CreateClient();
             var responseMessage = await client.GetAsync("https://localhost:7070/api/FeatureSliders/" + id);
             if (responseMessage.IsSuccessStatusCode)
