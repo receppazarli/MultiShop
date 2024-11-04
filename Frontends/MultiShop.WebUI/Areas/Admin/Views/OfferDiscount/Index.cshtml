@@ -3,7 +3,6 @@
 @{
     ViewData["Title"] = "Index";
     Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
-
 }
 
 <section class="content container-fluid">
@@ -33,7 +32,22 @@
                             }
                         </tbody>
                     </table>
-                    <a href="/Admin/OfferDiscount/CreateOfferDiscount/" class="btn btn-primary">Yeni İndirim Teklifi Girişi</a>
+                    @if (Model.Count >= 2)
+                    {
+
+                        <a href="" class="btn btn-danger btn-sm disabled">İkiden Fazla İndirim Teklifi Eklenemez!</a>
+                        ;
+
+                    }
+
+                    else
+
+                    {
+
+                        <a href="/Admin/OfferDiscountAdmin/CreateOfferDiscount/" class="btn btn-primary btn-sm">Yeni İndirim Teklifi Ekle</a>
+
+                    }
+                    @* <a href="/Admin/OfferDiscount/CreateOfferDiscount/" class="btn btn-primary">Yeni İndirim Teklifi Girişi</a> *@
 
                 </div>
             </div>
