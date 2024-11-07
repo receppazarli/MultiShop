@@ -1,12 +1,7 @@
-﻿using MongoDB.Bson.Serialization.Attributes;
-using MongoDB.Bson;
-
-namespace MultiShop.Catalog.Entities
+﻿namespace MultiShop.DtoLayer.CatalogDtos.AboutDtos
 {
-    public class About
+    public class UpdateAboutDto
     {
-        [BsonId]
-        [BsonRepresentation(BsonType.ObjectId)]
         public string AboutId { get; set; }
         public string Description { get; set; }
         public string Address { get; set; }
